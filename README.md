@@ -1,2 +1,3 @@
 # hello-world
 このリポジトリはGitHub Flowを実行するためのリポジトリです
+GitHubで初めてリポジトリを作成している
